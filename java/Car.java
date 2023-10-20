@@ -1,3 +1,3 @@
 this is class
 
-static test
+static testdd
