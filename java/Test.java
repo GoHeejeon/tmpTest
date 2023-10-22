@@ -1,2 +1,3 @@
-etsetesetetsetw
-sdsdsdsdsd
+static String test{
+    
+}
